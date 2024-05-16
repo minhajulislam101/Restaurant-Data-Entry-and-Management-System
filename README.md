@@ -1,4 +1,6 @@
 ![image](https://github.com/minhajulislam101/Restaurant-Data-Entry-and-Management-System/assets/62748402/667bd3ee-d1f1-4815-b03f-82d38c8fa54e)
+![image](https://github.com/minhajulislam101/Restaurant-Data-Entry-and-Management-System/assets/62748402/4145766d-ada7-48a8-bcd6-6b05b8fba380)
+
 
 # Restaurant Data Entry and Management System
 
