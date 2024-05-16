@@ -1,3 +1,5 @@
+![image](https://github.com/minhajulislam101/Restaurant-Data-Entry-and-Management-System/assets/62748402/667bd3ee-d1f1-4815-b03f-82d38c8fa54e)
+
 # Restaurant Data Entry and Management System
 
 This project is a simple web application for managing restaurant data. It includes features for adding, editing, and deleting restaurant entries, as well as searching for restaurants based on various criteria. The application also includes a dark mode and light mode toggle for better user experience.
